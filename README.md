@@ -10,7 +10,7 @@ A Next.js + TypeScript + Tailwindcss starter
 Create app
 
 ```
-npx create-next-app ts-next -e https://github.com/KdM-4/next-ts-tw
+npx create-next-app mysite -e https://github.com/KdM-4/next-ts-tw
 ```
 
 This starter is meant for my personal use, but if you find this feel free to use it
