@@ -16,3 +16,6 @@ Create app
 ```
 npx create-next-app ts-next -e https://github.com/jpedroschmitz/typescript-nextjs-starter
 ```
+
+This starter is meant for my personal use, but if you find this feel free to use it
+This is an edit of: https://github.com/jpedroschmitz/typescript-nextjs-starter
