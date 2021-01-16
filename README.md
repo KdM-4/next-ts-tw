@@ -2,7 +2,6 @@ A Next.js + TypeScript + Tailwindcss starter
 
 - 📏 **ESLint** — Pluggable JavaScript linter
 - 💖 **Prettier** - Opinionated Code Formatter
-- 🖌 **Renovate** - Dependency update tool
 - 🗂 **Absolute import** - Import folders and files using the `@` prefix
 
 ## 🚀 Getting started
